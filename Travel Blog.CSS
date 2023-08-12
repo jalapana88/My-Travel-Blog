@@ -1,0 +1,45 @@
+html{
+    background-color: rgb(102, 196, 90);
+} 
+
+.country_div {
+    border: 5px solid rgb(172, 59, 59);
+    border-radius: 10px;
+    margin: 10px;
+    margin-top: 30px ;
+    padding: 10px;
+    text-align: center;
+}
+
+#Japan_div{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: stretch;
+}
+
+#Japan_name {
+    color: rgb(255, 0, 0);
+    
+}
+
+#Australia_name {
+    color: rgb(9, 9, 241);
+}
+
+#South Korea_name{
+    color: rgb(170, 10, 170);
+}
+
+#Airbus_image{
+    position: absolute;
+    top: 10px;
+    right:10px;
+
+}
+
+#earth_image{
+    position: absolute;
+    top: 10px;
+    right:250px;
+
+}
